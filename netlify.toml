@@ -1,0 +1,7 @@
+[build]
+  command = "npm run build"
+  publish = "build"
+
+# Optional: pin Node version for Netlify builds (uncomment to pin)
+# [build.environment]
+#   NODE_VERSION = "22.21.1"
