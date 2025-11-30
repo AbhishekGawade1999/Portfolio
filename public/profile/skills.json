@@ -1,62 +1,126 @@
 {
-    "intro": "I love to learn new things and experiment with new technologies.\nThese are some of the major languages, technologies, tools and platforms I have worked with:",
-    "skills": [{
-     
-            "title": "Languages & Databases",
+    "intro": "These are some of the major languages, technologies, tools and platforms I have worked with:",
+    "skills": [
+
+         {
+            "title": "Build & Packaging",
+            "items" : [
+                {
+                    "icon": "images/skills/gradle.png",
+                    "title": "Gradle"
+                },
+                {
+                    "icon": "images/skills/mvn.jpg",
+                    "title": "Maven"
+                },
+                {
+                    "icon": "images/skills/docker.png",
+                    "title": "Docker"
+                }
+            ]
+        },    
+        {
+            "title": "CI/CD",
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/Jenkins.png",
+                    "title": "Jenkins"
                 },
                 {
-                    "icon": "images/skills/php.png",
-                    "title": "PHP"
+                    "icon": "images/skills/Harness.jpg",
+                    "title": "Harness"
                 },
                 {
-                    "icon": "images/skills/js.png",
-                    "title": "JavaScript"
-                },
-                {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
-                },
-                {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/GitHub Actions.png",
+                    "title": "GitHub Actions"
                 }
         ]},
         {
-            "title": "Frameworks & Technologies",
+            "title": "Cloud Computing & Orchestration:",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/AWS.png",
+                    "title": "AWS"
                 },
                 {
-                    "icon": "images/skills/react.png",
-                    "title": "React"
+                    "icon": "images/skills/Azure.png",
+                    "title": "Azure"
                 },
                 {
-                    "icon": "images/skills/nodejs.png",
-                    "title": "Nodejs"
+                    "icon": "images/skills/Kubernetes.png",
+                    "title": "Kubernetes"
+                },
+                {
+                    "icon": "images/skills/openshift.png",
+                    "title": "OpenShift"
                 }
             ]
         },
         {
-            "title" : "Tools & Platforms",
+            "title" : "IaC & DevSecOps Tools",
             "items": [
+                 {
+                    "icon": "images/skills/treraform.png",
+                    "title": "Terraform"
+                },
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/Ansible.png",
+                    "title": "Ansible"
+                },
+                {
+                    "icon": "images/skills/BlackDuck.jpg",
+                    "title": "BlackDuck"
+                },
+                {
+                    "icon": "images/skills/Checkmarx SAST.jpg",
+                    "title": "Checkmarx SAST"
+                },
+                {
+                    "icon": "images/skills/SonarQube.png",
+                    "title": "SonarQube"
+                }
+            ]
+        },
+        {
+            "title" : "Scripting & SCM Tools",
+            "items": [
+                 {
+                    "icon": "images/skills/bash_shell.png",
+                    "title": "Bash, Shell Scripting"
+                },
+                {
+                    "icon": "images/skills/python.jpg",
+                    "title": "Python"
+                },
+                {
+                    "icon": "images/skills/groovy.png",
+                    "title": "Groovy"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/github.png",
+                    "title": "GitHub"
+                }
+            ]
+        },   
+        {
+            "title" : "Monitoring & Observability",
+            "items": [
+                 {
+                    "icon": "images/skills/Prometheus.png",
+                    "title": "Prometheus"
+                },
+                {
+                    "icon": "images/skills/Grafana.jpg",
+                    "title": "Grafana"
+                },
+                {
+                    "icon": "images/skills/cAdvisor.jpg",
+                    "title": "cAdvisor"
                 }
             ]
     }

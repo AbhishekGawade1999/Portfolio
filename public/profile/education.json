@@ -1,19 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
+            "title": "Jun 2017 - Jun 2021",
             "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "cardSubtitle":"Savitribai Phule Pune University",
+            "cardDetailedText": "CGPA - 8.5",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/sppu.jpg"
             }
         },
         {
-            "title": "Apr 20XX",
+            "title": "Apr 2015 - May 2017",
             "cardTitle": "High School",
-            "cardSubtitle":"ABC School, City",
-            "cardDetailedText": "Marks - 95%"
+            "cardSubtitle":"fergusson college pune",
+            "cardDetailedText": "Marks - 85%"
         }
     ]
 }

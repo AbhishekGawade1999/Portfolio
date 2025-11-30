@@ -1,33 +1,37 @@
 {
     "experiences": [
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
+            "title": "DevOps Engineer II",
+            "subtitle": "FIS Global Technologies",
             "workType": "Full-time",
             "workDescription": [
-                "Integrated **2** new product.",
-                "Worked on adding **def** to **bcd**. Improved speed by 50%."
+                "Automate Sysdig & Checkmarx scans for over 17+ components speeding release team’s work 10x.",
+                "Developed Kubernetes HELM charts for multiple components, later to be used in deployment.",
+                "Migrated Jenkins CI pipelines to Github Actions , Migrated Repos from Bitbucket to Github.",
+                "Enabled Performance team with Chaos Engineering on Harness CE."
             ],
-            "dateText": "06/20XX – Present"
+            "dateText": "06/2023 – Present"
         },
         {
-            "title": "Software Engineer",
-            "subtitle": "XYZ Ltd",
-            "workType": "Internship",
+            "title": "DevOps Engineer I",
+            "subtitle": "FIS Global Technologies",
+            "workType": "Full-time",
             "workDescription": [
-                "Worked on abc."
+                "Implemented Continuous deployment & upgrade for Training & Demo Environments using Harness, Jenkins, Kubernetes & docker",
+                "Lead 17+ component migration over checkmarx (Nextgen SAST Tool) from Veracode (from scratch). Mainly used Jenkins, RestAPIS, Git, Maven, Gradle & Enhancing DevSecOps skills.",
+                "Developed & Maintained multiple Development/UAT ready pipelines & release automation from scratch."
             ],
-            "dateText": "01/20XX – 05/20XX"
+            "dateText": "06/2022 – 06/2023"
         },
         {
-            "title": "App Developer",
-            "subtitle": "ABC Pvt Ltd",
-            "workType": "Freelance",
+            "title": "Information Technology Trainee",
+            "subtitle": "FIS Global Technologies",
+            "workType": "Full-time",
             "workDescription": [
-                "Developed the official apps for the startup for both Android and iOS using hybrid framework.",
-                "Done bcd work."
-            ],
-            "dateText": "09/20XX – 01/20YY"
+                "Implemented on demand environment provision using terraform, configuration using Ansible.",
+                "Integrated Auto healing & auto cleanup for Jenkins 200+ workers using Jenkins automation, vSphere Apis, Python & Shell"
+                ],
+            "dateText": "06/2021 – 06/2022"
         }
     ]
 }
