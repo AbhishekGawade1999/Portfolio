@@ -17,7 +17,7 @@
                     "title": "Docker"
                 },
                 {
-                    "icon": "images/skills/gradle.png",
+                    "icon": "images/skills/npm.png",
                     "title": "npm"
                 }
             ]
@@ -88,7 +88,7 @@
                     "title": "SonarQube"
                 },
                 {
-                    "icon": "images/skills/Checkmarx SAST.jpg",
+                    "icon": "images/skills/veracode.png",
                     "title": "Veracode"
                 },
                 {
@@ -96,7 +96,7 @@
                     "title": "Sysdig"
                 },
                 {
-                    "icon": "images/skills/Checkmarx SAST.jpg",
+                    "icon": "images/skills/cxone.png",
                     "title": "CxOne SCA"
                 }
             ]
@@ -151,15 +151,15 @@
             "title": "Secret Management",
             "items": [
                 {
-                    "icon": "images/skills/Checkmarx SAST.jpg",
+                    "icon": "images/skills/vault.svg",
                     "title": "Vault"
                 },
                 {
-                    "icon": "images/skills/Checkmarx SAST.jpg",
+                    "icon": "images/skills/cyberark.svg",
                     "title": "CyberArk"
                 },
                 {
-                    "icon": "images/skills/Checkmarx SAST.jpg",
+                    "icon": "images/skills/crowd.svg",
                     "title": "Crowd"
                 }
             ]

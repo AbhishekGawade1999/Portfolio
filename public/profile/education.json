@@ -10,12 +10,12 @@
             }
         },
         {
-            "title": "Certifications",
-            "cardTitle": "Harness & Microsoft Certified",
-            "cardSubtitle": "DevOps & Cloud",
-            "cardDetailedText": "• Certified Continuous Delivery & GitOps Developer | Harness\n• Harness Certified Chaos Engineering Developer\n• AZ-900 | Microsoft\n• Generative AI | Microsoft",
+            "title": "Jun 2015 - Jun 2017",
+            "cardTitle": "High School",
+            "cardSubtitle": "Fergusson College",
+            "cardDetailedText": "CGPA - 8.3",
             "icon": {
-                "src": "images/skills/Harness.jpg"
+                "src": "images/education/fergusson.jpg"
             }
         }
     ]

@@ -8,50 +8,36 @@
                 {
                     "text": "GitHub",
                     "href": "https://github.com/AbhishekGawade1999/Portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": ""
                 }
             ],
             "tags": [
                 "React",
                 "Portfolio",
-                "JavaScript",
-                "CSS"
+                "JavaScript"
             ]
         },
         {
-            "image": "images/projects/portfolio-poster.png",
-            "title": "FIS Cleared Derivatives (Fintech)",
-            "bodyText": "Core DevOps Member managing CI/CD, Security, Build, Orchestration & Release for 17+ core micro services (Java/Groovy/Python). Delivered over 20+ individual releases to clients like HSBC, Bank Of America, JP Morgan.",
-            "links": [],
+            "image": "images/projects/simplehabittracker.png",
+            "title": "Simple Habbit Tracker",
+            "bodyText": "Simple Habbit Tracker made in React for tracking daily habits",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/AbhishekGawade1999/simplehabittracker"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://simplehabittracker.vercel.app/"
+                }
+            ],
             "tags": [
-                "DevOps",
-                "CI/CD",
-                "Kubernetes",
-                "Helm",
-                "PaaS"
-            ]
-        },
-        {
-            "image": "images/skills/Checkmarx SAST.jpg",
-            "title": "Checkmarx Migration",
-            "bodyText": "Lead 17+ component migration over Checkmarx (Nextgen SAST Tool) from Veracode. Used Jenkins, RestAPIS, Git, Maven, Gradle.",
-            "links": [],
-            "tags": [
-                "Security",
-                "Migration",
-                "Jenkins",
-                "DevSecOps"
-            ]
-        },
-        {
-            "image": "images/skills/Harness.jpg",
-            "title": "Harness CD Migration",
-            "bodyText": "Migrated Jenkins CI pipelines to Github Actions. Migrated Repos from Bitbucket to Github. Enabled Sandbox, Performance, Demo team for automated deployments using Harness.",
-            "links": [],
-            "tags": [
-                "Harness",
-                "Migration",
-                "CD",
-                "Automation"
+                "React",
+                "Portfolio",
+                "JavaScript"
             ]
         }
     ]
