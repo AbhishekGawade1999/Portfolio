@@ -1,19 +1,22 @@
 {
-    "education":[
+    "education": [
         {
             "title": "Jun 2017 - Jun 2021",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"Savitribai Phule Pune University",
+            "cardTitle": "BE Computer",
+            "cardSubtitle": "Modern College Of Engineering, Savitribai Phule Pune University",
             "cardDetailedText": "CGPA - 8.5",
-            "icon" : {
+            "icon": {
                 "src": "images/education/sppu.jpg"
             }
         },
         {
-            "title": "Apr 2015 - May 2017",
-            "cardTitle": "High School",
-            "cardSubtitle":"fergusson college pune",
-            "cardDetailedText": "Marks - 85%"
+            "title": "Certifications",
+            "cardTitle": "Harness & Microsoft Certified",
+            "cardSubtitle": "DevOps & Cloud",
+            "cardDetailedText": "• Certified Continuous Delivery & GitOps Developer | Harness\n• Harness Certified Chaos Engineering Developer\n• AZ-900 | Microsoft\n• Generative AI | Microsoft",
+            "icon": {
+                "src": "images/skills/Harness.jpg"
+            }
         }
     ]
 }

@@ -6,9 +6,12 @@
             "workType": "Full-time",
             "workDescription": [
                 "Automate Sysdig & Checkmarx scans for over 17+ components speeding release team’s work 10x.",
+                "Work alongside Dev Managers, Architects & release team to streamline release automations.",
                 "Developed Kubernetes HELM charts for multiple components, later to be used in deployment.",
-                "Migrated Jenkins CI pipelines to Github Actions , Migrated Repos from Bitbucket to Github.",
-                "Enabled Performance team with Chaos Engineering on Harness CE."
+                "Migrated Jenkins CI pipelines to Github Actions",
+                "Migrated Repos from Bitbucket to Github",
+                "Enabled Sandbox, Performance, Demo team for automated deployments using Harness CD",
+                "Enabled Performance team with Chaos Engineering on Harness CE"
             ],
             "dateText": "06/2023 – Present"
         },
@@ -19,7 +22,9 @@
             "workDescription": [
                 "Implemented Continuous deployment & upgrade for Training & Demo Environments using Harness, Jenkins, Kubernetes & docker",
                 "Lead 17+ component migration over checkmarx (Nextgen SAST Tool) from Veracode (from scratch). Mainly used Jenkins, RestAPIS, Git, Maven, Gradle & Enhancing DevSecOps skills.",
-                "Developed & Maintained multiple Development/UAT ready pipelines & release automation from scratch."
+                "Developed & Maintained multiple Development/UAT ready pipelines & release automation from scratch.",
+                "Extensively worked on linux upgrades over vm & orchestration environments",
+                "Setup k8s cluster & Ingress on it alongside multiple tools for connection like azure cli, kubectl, helm, kubeadm & test environments like k3d."
             ],
             "dateText": "06/2022 – 06/2023"
         },
@@ -30,7 +35,7 @@
             "workDescription": [
                 "Implemented on demand environment provision using terraform, configuration using Ansible.",
                 "Integrated Auto healing & auto cleanup for Jenkins 200+ workers using Jenkins automation, vSphere Apis, Python & Shell"
-                ],
+            ],
             "dateText": "06/2021 – 06/2022"
         }
     ]
